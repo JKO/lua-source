@@ -3,6 +3,7 @@
 a = {}
 
 for i=1, 10 do
+  print("Enter de Value:")
   a[i] = io.read()
 end
 
